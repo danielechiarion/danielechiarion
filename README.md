@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @danielechiarion
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<div>
+  <img src="https://media.tenor.com/zg605mnN6VUAAAAd/leclerc-monza-monza2019.gif" width="75%" height="75%">
+</div>
+<!---
+danielechiarion/danielechiarion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
