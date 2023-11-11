@@ -4,7 +4,7 @@
 </div>
 <br><br>
 
-<p align=center><i>Programmatore in:</i></p>
+<p align=center><i>I miei linguaggi: </i></p>
 <div align=center>
   <img src="https://www.distortionbyte.com/images/it/informatica/linguaggio-c.svg" width="150" height="150" hspace=50>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUPkuUV0pusAIMc2IIdPdJuzqMofVVli-hcm_AMdNCQQ-Vela34u-QdzD7Cr1iHE2hCgQ&usqp=CAU" width="150" height="150" hspace=50>
