@@ -7,8 +7,8 @@
 <p align=center><i>I miei linguaggi: </i></p>
 <div align=center>
   <img src="https://www.distortionbyte.com/images/it/informatica/linguaggio-c.svg" width="150" height="150" hspace=50>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUPkuUV0pusAIMc2IIdPdJuzqMofVVli-hcm_AMdNCQQ-Vela34u-QdzD7Cr1iHE2hCgQ&usqp=CAU" width="150" height="150" hspace=50>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8tKcedmIUhnKMZuVVgC4QwKr6XFQQ-HkZoGsTG9-q-vy2Ak-eXr068Jclf7s5bb-5zhY&usqp=CAU" width="100" height="150" hspace=50>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUPkuUV0pusAIMc2IIdPdJuzqMofVVli-hcm_AMdNCQQ-Vela34u-QdzD7Cr1iHE2hCgQ&usqp=CAU" width="150" height="150" hspace=0>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8tKcedmIUhnKMZuVVgC4QwKr6XFQQ-HkZoGsTG9-q-vy2Ak-eXr068Jclf7s5bb-5zhY&usqp=CAU" width="100" height="150" hspace=70>
 </div>
 
 <!---
