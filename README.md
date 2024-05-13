@@ -13,7 +13,7 @@
 <div align=center>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUPkuUV0pusAIMc2IIdPdJuzqMofVVli-hcm_AMdNCQQ-Vela34u-QdzD7Cr1iHE2hCgQ&usqp=CAU" width="150" height="150" hspace=50>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8tKcedmIUhnKMZuVVgC4QwKr6XFQQ-HkZoGsTG9-q-vy2Ak-eXr068Jclf7s5bb-5zhY&usqp=CAU" width="100" height="150" hspace=0>
-  <img src="https://e7.pngegg.com/pngimages/87/538/png-clipart-javascript-scalable-graphics-logo-encapsulated-postscript-javascript-icon-text-logo.png" width="150" height="150" hspace=50>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="150" height="150" hspace=50>
 </div>
 
 <!---
