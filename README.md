@@ -11,9 +11,9 @@
   <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" width="175" height="150" hspace=50>
 </div>
 <div align=center>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUPkuUV0pusAIMc2IIdPdJuzqMofVVli-hcm_AMdNCQQ-Vela34u-QdzD7Cr1iHE2hCgQ&usqp=CAU" width="150" height="150" hspace=50>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUPkuUV0pusAIMc2IIdPdJuzqMofVVli-hcm_AMdNCQQ-Vela34u-QdzD7Cr1iHE2hCgQ&usqp=CAU" width="150" height="150" hspace=70>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8tKcedmIUhnKMZuVVgC4QwKr6XFQQ-HkZoGsTG9-q-vy2Ak-eXr068Jclf7s5bb-5zhY&usqp=CAU" width="100" height="150" hspace=0>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="150" height="150" hspace=50>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="150" height="150" hspace=70>
 </div>
 
 <!---
