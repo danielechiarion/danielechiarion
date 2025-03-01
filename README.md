@@ -4,17 +4,9 @@
 </div>
 <br><br>
 
-<p align=center><i>I miei linguaggi: </i></p>
-<div align=center>
-  <img src="https://www.distortionbyte.com/images/it/informatica/linguaggio-c.svg" width="150" height="150" hspace=50>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="125" height="140" hspace=0>
-  <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" width="175" height="150" hspace=50>
-</div>
-<div align=center>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUPkuUV0pusAIMc2IIdPdJuzqMofVVli-hcm_AMdNCQQ-Vela34u-QdzD7Cr1iHE2hCgQ&usqp=CAU" width="150" height="150" hspace=70>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8tKcedmIUhnKMZuVVgC4QwKr6XFQQ-HkZoGsTG9-q-vy2Ak-eXr068Jclf7s5bb-5zhY&usqp=CAU" width="100" height="150" hspace=0>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="150" height="150" hspace=70>
-</div>
+| Github Statistics | Streaks | Languages |
+|-------------------|---------|-----------|
+| [![il deniel's github stats](https://github-readme-stats.vercel.app/api?username=danielechiarion&show_icons=true&theme=dark&hide_title=true)](https://github.com/danielechiarion) | ![il deniel's streaks](https://github-readme-streak-stats.herokuapp.com/?user=danielechiarion&theme=dark) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielechiarion&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/danielechiarion) |
 
 <!---
 danielechiarion/danielechiarion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
