@@ -11,3 +11,15 @@
 danielechiarion/danielechiarion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<br><br>
+<h2 align="center">Work with</h2>
+<div align="center">
+  <img src="https://www.geekandjob.com/uploads/wiki/f03eab0e2926595f84d8e8903a2c08adcd62320e.png" style="height: 80px; width: auto;" hspace="15">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" style="height: 80px; width: auto;" hspace="15">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" style="height: 80px; width: auto;" hspace="15">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="height: 80px; width: auto;" hspace="15">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" style="height: 80px; width: auto;" hspace="15">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" style="height: 80px; width: auto;" hspace="15">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" style="height: 80px; width: auto;" hspace="15">
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" style="height: 80px; width: auto;" hspace="15">
+</div>
