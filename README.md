@@ -12,7 +12,7 @@ danielechiarion/danielechiarion is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 <br><br>
-<h2 align="center">Work with</h2>
+<h2 align="center">Languages kwnown:</h2>
 <div align="center">
   <img src="https://www.geekandjob.com/uploads/wiki/f03eab0e2926595f84d8e8903a2c08adcd62320e.png" style="height: 80px; width: auto;" hspace="15">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" style="height: 80px; width: auto;" hspace="15">
@@ -24,4 +24,14 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" style="height: 80px; width: auto;" hspace="15">
   <img src="https://user-images.githubusercontent.com/12243763/33518868-6e2595c4-d76a-11e7-8260-31b4e8110c93.png" style="height: 80px; width: auto;" hspace="15">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" style="height: 80px; width: auto;" hspace="15">
+  <img src=https://dart.dev/assets/img/logo/dart-logo-for-shares.png" style="height: 80px; width: auto;" hspace="15">
+</div>
+<br><br>
+<h2 align="center">Working with:</h2>
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/960px-WordPress_blue_logo.svg.png" style="height: 80px; width: auto;" hspace="15">
+  <img src="https://help.brevo.com/hc/article_attachments/21011741766546" style="height: 80px; width: auto;" hspace="15">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" style="height: 80px; width: auto;" hspace="15">
+  <img src="https://files.seeedstudio.com/wiki/reComputer-R1000/tb/thingsboard_blue.png" style="height: 80px; width: auto;" hspace="15">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Arduino_Logo_Registered.svg/1280px-Arduino_Logo_Registered.svg.png" style="height: 80px; width: auto;" hspace="15">
 </div>
