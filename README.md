@@ -1,6 +1,6 @@
 <h1 text align=center>Daniele Chiarion</h1>
 <div align="center">
-  <a href="https://it.wikipedia.org/wiki/File:Michael_Schumacher_(Ferrari)_-_GP_d%27Italia_1998.jpg#/media/File:Michael_Schumacher_(Ferrari)_-_GP_d'Italia_1998.jpg"><img src="https://upload.wikimedia.org/wikipedia/it/f/ff/Michael_Schumacher_%28Ferrari%29_-_GP_d%27Italia_1998.jpg" alt="Michael Schumacher (Ferrari) - GP d'Italia 1998.jpg" height="50%" width="50%">
+  <img src="images/schumacher.jpg" alt="Michael Schumacher (Ferrari) - GP d'Italia 1998.jpg" height="50%" width="50%">
 </div>
 <br><br>
 
@@ -14,24 +14,24 @@ You can click the Preview link to take a look at your changes.
 <br><br>
 <h2 align="center">Languages kwnown:</h2>
 <div align="center">
-  <img src="https://www.geekandjob.com/uploads/wiki/f03eab0e2926595f84d8e8903a2c08adcd62320e.png" style="height: 80px; width: auto;" hspace="15">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" style="height: 80px; width: auto;" hspace="15">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" style="height: 80px; width: auto;" hspace="15">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="height: 80px; width: auto;" hspace="15">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" style="height: 80px; width: auto;" hspace="15">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" style="height: 80px; width: auto;" hspace="15">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" style="height: 80px; width: auto;" hspace="15">
-  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" style="height: 80px; width: auto;" hspace="15">
-  <img src="https://user-images.githubusercontent.com/12243763/33518868-6e2595c4-d76a-11e7-8260-31b4e8110c93.png" style="height: 80px; width: auto;" hspace="15">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" style="height: 80px; width: auto;" hspace="15">
-  <img src=https://dart.dev/assets/img/logo/dart-logo-for-shares.png" style="height: 80px; width: auto;" hspace="15">
+  <img src="languages/c.png" style="height: 80px; width: auto;" hspace="15">
+  <img src="languages/c++.png" style="height: 80px; width: auto;" hspace="15">
+  <img src="languages/java.png" style="height: 80px; width: auto;" hspace="15">
+  <img src="languages/python.png" style="height: 80px; width: auto;" hspace="15">
+  <img src="languages/html5.png" style="height: 80px; width: auto;" hspace="15">
+  <img src="languages/css3.png" style="height: 80px; width: auto;" hspace="15">
+  <img src="languages/sass.webp" style="height: 80px; width: auto;" hspace="15">
+  <img src="languages/javascript.svg" style="height: 80px; width: auto;" hspace="15">
+  <img src="languages/typescript.png" style="height: 80px; width: auto;" hspace="15">
+  <img src="languages/php.svg" style="height: 80px; width: auto;" hspace="15">
+  <img src="languages/dart.png" style="height: 80px; width: auto;" hspace="15">
 </div>
 <br><br>
 <h2 align="center">Working with:</h2>
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/960px-WordPress_blue_logo.svg.png" style="height: 80px; width: auto;" hspace="15">
-  <img src="https://help.brevo.com/hc/article_attachments/21011741766546" style="height: 80px; width: auto;" hspace="15">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" style="height: 80px; width: auto;" hspace="15">
-  <img src="https://files.seeedstudio.com/wiki/reComputer-R1000/tb/thingsboard_blue.png" style="height: 80px; width: auto;" hspace="15">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Arduino_Logo_Registered.svg/1280px-Arduino_Logo_Registered.svg.png" style="height: 80px; width: auto;" hspace="15">
+  <img src="software/wordpress.webp" style="height: 80px; width: auto;" hspace="15">
+  <img src="software/joomla.png" style="height: 80px; width: auto;" hspace="15">
+  <img src="software/flutter.png" style="height: 80px; width: auto;" hspace="15">
+  <img src="software/thingsboard.png" style="height: 80px; width: auto;" hspace="15">
+  <img src="software/arduino.webp" style="height: 80px; width: auto;" hspace="15">
 </div>
