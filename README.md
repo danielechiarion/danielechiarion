@@ -5,11 +5,11 @@
 <br><br>
 
 <div align="center">
-  
+
 | Github Statistics | Streaks | Languages |
 |:-------------------:|:---------:|:-----------:|
-| ![il deniel's github stats](https://github-readme-stats.vercel.app/api?username=danielechiarion&show_icons=true&theme=dark&hide_title=true) | ![il deniel's streaks](https://github-readme-streak-stats.herokuapp.com/?user=danielechiarion&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielechiarion&show_icons=true&theme=dark&layout=compact&hide_title=true) |
-  
+| ![il deniel's github stats](https://github-readme-stats.vercel.app/api?username=danielechiarion&show_icons=true&theme=dark&hide_title=true&count_private=true) | ![il deniel's streaks](https://github-readme-streak-stats.herokuapp.com/?user=danielechiarion&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielechiarion&show_icons=true&theme=dark&layout=compact&hide_title=true&hide=html,css&count_private=true) |
+
 </div>
 <!---
 danielechiarion/danielechiarion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
