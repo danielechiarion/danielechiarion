@@ -8,7 +8,7 @@
   
 | Github Statistics | Streaks | Languages |
 |:-------------------:|:---------:|:-----------:|
-| [![il deniel's github stats](https://github-readme-stats.vercel.app/api?username=danielechiarion&show_icons=true&theme=dark&hide_title=true)](https://github.com/danielechiarion) | ![il deniel's streaks](https://github-readme-streak-stats.herokuapp.com/?user=danielechiarion&theme=dark) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielechiarion&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/danielechiarion) |
+| ![il deniel's github stats](https://github-readme-stats.vercel.app/api?username=danielechiarion&show_icons=true&theme=dark&hide_title=true) | ![il deniel's streaks](https://github-readme-streak-stats.herokuapp.com/?user=danielechiarion&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielechiarion&show_icons=true&theme=dark&layout=compact&hide_title=true) |
   
 </div>
 <!---
