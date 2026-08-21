@@ -8,7 +8,7 @@
 
 | Github Statistics | Streaks | Languages |
 |:-------------------:|:---------:|:-----------:|
-| ![](profile-summary-card-output/aura/3-stats.svg) | ![il deniel's streaks](https://github-readme-streak-stats.herokuapp.com/?user=danielechiarion&theme=dark) | ![](profile-summary-card-output/aura/2-most-commit-language.svg) |
+| ![](profile-summary-card-output/aura/3-stats.svg) | ![](profile-summary-card-output/aura/0-profile-details.svg) | ![](profile-summary-card-output/aura/2-most-commit-language.svg) |
 
 </div>
 <!---
